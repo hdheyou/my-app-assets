@@ -1,6 +1,6 @@
 [
   {
-    "id": "local_1",
+    "id": "remote_1",
     "sort": 1,
     "isLocal": true,
     "name": {
@@ -139,7 +139,7 @@
     "macOS": {}
   },
   {
-    "id": "local_2",
+    "id": "remote_2",
     "sort": 2,
     "isLocal": true,
     "name": {
@@ -278,7 +278,7 @@
     "macOS": {}
   },
   {
-    "id": "local_3",
+    "id": "remote_3",
     "sort": 3,
     "isLocal": true,
     "name": {
@@ -417,7 +417,7 @@
     "macOS": {}
   },
   {
-    "id": "local_4",
+    "id": "remote_4",
     "sort": 4,
     "isLocal": true,
     "name": {
@@ -556,7 +556,7 @@
     "macOS": {}
   },
   {
-    "id": "local_5",
+    "id": "remote_5",
     "sort": 5,
     "isLocal": true,
     "name": {
@@ -695,7 +695,7 @@
     "macOS": {}
   },
   {
-    "id": "local_6",
+    "id": "remote_6",
     "sort": 6,
     "isLocal": true,
     "name": {
@@ -834,7 +834,7 @@
     "macOS": {}
   },
   {
-    "id": "local_7",
+    "id": "remote_7",
     "sort": 7,
     "isLocal": true,
     "name": {
