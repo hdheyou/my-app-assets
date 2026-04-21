@@ -9,18 +9,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/bg_OfficialGold_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/bg_OfficialGold_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/bg_OfficialGold_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/bg_OfficialGold_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -33,12 +33,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -51,12 +51,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -69,12 +69,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -87,12 +87,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -105,12 +105,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/tab_OfficialGold_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -128,19 +128,19 @@
           "Dark": "#361E12"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/demo_OfficialGold_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/demo_OfficialGold_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/demo_OfficialGold_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/demo_OfficialGold_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/OfficialGold/item_OfficialGold_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/OfficialGold/item_OfficialGold_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": true,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_officialGold@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_officialGold@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_officialGold@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_officialGold@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -162,7 +162,8 @@
           0
         ]
       }
-    }
+    },
+    "colorStyle": 2
   },
   {
     "id": "remote_3",
@@ -174,18 +175,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/bg_Pistachio_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/bg_Pistachio_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/bg_Pistachio_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/bg_Pistachio_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -198,12 +199,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -216,12 +217,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -234,12 +235,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -252,12 +253,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -270,12 +271,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/tab_Pistachio_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -293,19 +294,19 @@
           "Dark": "#0F3229"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/demo_Pistachio_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/demo_Pistachio_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/demo_Pistachio_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/demo_Pistachio_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Pistachio/item_Pistachio_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Pistachio/item_Pistachio_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": false,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_pistachio@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_pistachio@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_pistachio@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_pistachio@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -327,7 +328,8 @@
           0
         ]
       }
-    }
+    },
+    "colorStyle": 1
   },
   {
     "id": "remote_4",
@@ -339,18 +341,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/bg_LavenderCream_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/bg_LavenderCream_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/bg_LavenderCream_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/bg_LavenderCream_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -363,12 +365,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -381,12 +383,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -399,12 +401,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -417,12 +419,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -435,12 +437,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/tab_LavenderCream_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -458,19 +460,19 @@
           "Dark": "#503F71"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/demo_LavenderCream_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/demo_LavenderCream_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/demo_LavenderCream_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/demo_LavenderCream_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/LavenderCream/item_LavenderCream_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/LavenderCream/item_LavenderCream_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": false,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_lavender@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_lavender@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_lavender@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_lavender@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -492,7 +494,8 @@
           0
         ]
       }
-    }
+    },
+    "colorStyle": 1
   },
   {
     "id": "remote_5",
@@ -504,18 +507,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/bg_PeachFuzz_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/bg_PeachFuzz_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/bg_PeachFuzz_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/bg_PeachFuzz_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -528,12 +531,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -546,12 +549,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -564,12 +567,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -582,12 +585,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -600,12 +603,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/tab_PeachFuzz_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -623,19 +626,19 @@
           "Dark": "#724457"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/demo_PeachFuzz_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/demo_PeachFuzz_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/demo_PeachFuzz_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/demo_PeachFuzz_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/PeachFuzz/item_PeachFuzz_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/PeachFuzz/item_PeachFuzz_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": false,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_peach@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_peach@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_peach@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_peach@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -657,7 +660,8 @@
           0
         ]
       }
-    }
+    },
+    "colorStyle": 1
   },
   {
     "id": "remote_6",
@@ -669,18 +673,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/bg_Sandy_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/bg_Sandy_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/bg_Sandy_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/bg_Sandy_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -693,12 +697,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -711,12 +715,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -729,12 +733,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -747,12 +751,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -765,12 +769,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/tab_Sandy_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -788,19 +792,19 @@
           "Dark": "#725F2A"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/demo_Sandy_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/demo_Sandy_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/demo_Sandy_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/demo_Sandy_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/Sandy/item_Sandy_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/Sandy/item_Sandy_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": false,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_sandy@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_sandy@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_sandy@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_sandy@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -822,7 +826,8 @@
           0
         ]
       }
-    }
+    },
+    "colorStyle": 1
   },
   {
     "id": "remote_7",
@@ -834,18 +839,18 @@
     },
     "iOS": {
       "bg": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/bg_AI_light@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/bg_AI_dark@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/bg_AI_light@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/bg_AI_dark@3x.png"
       },
       "tabs": {
         "chat": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_chats_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_chats_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_chats_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_chats_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_chats_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_chats_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_chats_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_chats_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -858,12 +863,12 @@
         },
         "calendar": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_calendar_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -876,12 +881,12 @@
         },
         "contact": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_contact_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_contact_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_contact_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_contact_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_contact_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_contact_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_contact_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_contact_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -894,12 +899,12 @@
         },
         "meeting": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_meetings_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -912,12 +917,12 @@
         },
         "approval": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_approval_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_approval_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_approval_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_approval_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_approval_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_approval_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_approval_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_approval_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -930,12 +935,12 @@
         },
         "more": {
           "normal": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_more_nor@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_more_nor@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_more_nor@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_more_nor@3x.png"
           },
           "selected": {
-            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_more_sel@3x.png",
-            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/tab_AI_more_sel@3x.png"
+            "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_more_sel@3x.png",
+            "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/tab_AI_more_sel@3x.png"
           },
           "titleNorColorHex": {
             "Light": "#434343",
@@ -953,19 +958,19 @@
           "Dark": "#503F71"
         },
         "sample": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/demo_AI_light@3x.png",
-          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/demo_AI_dark@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/demo_AI_light@3x.png",
+          "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/demo_AI_dark@3x.png"
         },
         "item": {
-          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/iOS/themeStyle/AI/item_AI_light@3x.png"
+          "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/iOS/themeStyle/AI/item_AI_light@3x.png"
         }
       }
     },
     "macOS": {
       "isNew": false,
       "icon": {
-        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_AI@3x.png",
-        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.6/app1/v1/macOS/themeStyle/theme_AI@3x.png"
+        "Light": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_AI@3x.png",
+        "Dark": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@v1.0.7/app1/v1/macOS/themeStyle/theme_AI@3x.png"
       },
       "bgGradient": {
         "colors": {
@@ -991,6 +996,7 @@
           0.5
         ]
       }
-    }
+    },
+    "colorStyle": 1
   }
 ]

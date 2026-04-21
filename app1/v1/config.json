@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.6",
+  "version": "v1.0.7",
   "theme_styles": {
     "x2": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@{version}/app1/v1/theme_styles_2x.json",
     "x3": "https://cdn.jsdelivr.net/gh/hdheyou/my-app-assets@{version}/app1/v1/theme_styles_3x.json"
